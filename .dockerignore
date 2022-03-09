@@ -1,0 +1,7 @@
+# Deny all
+*
+
+# Allow 
+!src/
+!Cargo.toml
+!Cargo.lock
